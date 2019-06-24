@@ -1,0 +1,5 @@
+release
+build-max-flow-qt-Desktop_Qt_5_12_3_MinGW_64_bit-Debug
+build-max-flow-qt-Desktop_Qt_5_12_3_MinGW_64_bit-Profile
+build-max-flow-qt-Desktop_Qt_5_12_3_MinGW_64_bit-Release
+max-flow-qt.pro.user
